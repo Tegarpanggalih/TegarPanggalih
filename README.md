@@ -9,10 +9,11 @@
 <br/>
 
 <div align="center">
-    🔭 I am currently in **college as a student** <br>
-    🌱 I’m currently learning **ReactJs** <br>
-    ⚡ Fun fact **If U Love Somebody U Gotta Set Them Free**
+    🔭 I am currently in college as a student <br>
+    🌱 I’m currently learning ReactJs <br>
+    ⚡ Fun fact If U Love Somebody U Gotta Set Them Free
 </div>
+</br>
 
 <div align="center"> 
   <a href="mailto:youremail@example.com">

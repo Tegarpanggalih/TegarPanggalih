@@ -4,18 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tegar+Panggalih!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Indonesia 🇨🇦</h3>
+<h3 style="text-align: left;">A passionate software developer from Indonesia 🇨🇦</h3>
 
 <br/>
 
-<div align="center">
+<div style="text-align: left;">
     🔭 I am currently in college as a student <br>
     🌱 I’m currently learning ReactJs <br>
     ⚡ Fun fact If U Love Somebody U Gotta Set Them Free
 </div>
 </br>
 
-<div align="center"> 
+<div style="text-align: left;"> 
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -29,9 +29,9 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages ⚒️</h2>
+<h2 style="text-align: left;">⚒️ Languages ⚒️</h2>
 <br/>
-<div align="center">
+<div style="text-align: left;">
     <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
         <tr>
             <td><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="width: 50px; height: 50px;" /></td>
@@ -44,9 +44,9 @@
 </div>
 
 
-<h2 align="center">⚒️ Frameworks ⚒️</h2>
+<h2 style="text-align: left;"">⚒️ Frameworks ⚒️</h2>
 <br/>
-<div align="center">
+<div style="text-align: left;">
     <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
         <tr>
             <td><img src="https://skillicons.dev/icons?i=react" alt="React" style="width: 50px; height: 50px;" /></td>
@@ -58,9 +58,9 @@
 </div>
 
 
-<h2 align="center">⚒️ Databases ⚒️</h2>
+<h2 style="text-align: left;"">⚒️ Databases ⚒️</h2>
 <br/>
-<div align="center">
+<div style="text-align: left;">
     <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
         <tr>
             <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px;" /></td>
@@ -70,9 +70,9 @@
 </div>
 
 
-<h2 align="center">⚒️ Tools ⚒️</h2>
+<h2 style="text-align: left;">⚒️ Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div style="text-align: left;">
     <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
         <tr>
             <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="width: 50px; height: 50px;" /></td>

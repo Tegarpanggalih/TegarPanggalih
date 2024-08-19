@@ -9,43 +9,42 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I am currently in **college as a student**
- 
- 🌱 I’m currently learning **ReactJs**
+    🔭 I am currently in **college as a student** <br>
+    🌱 I’m currently learning **ReactJs** <br>
+    ⚡ Fun fact **If U Love Somebody U Gotta Set Them Free**
+</div>
 
-⚡ Fun fact **If U Love Somebody U Gotta Set Them Free**
-
- </div>
- 
 <div align="center"> 
-  <a href="">
+  <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://yourportfolio.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,r" />
-
-    <h3>Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,nextjs,tailwind" />
-
-    <h3>Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,nodejs" />
+    <table>
+      <tr>
+        <th>Languages</th>
+        <th>Frameworks</th>
+        <th>Databases</th>
+        <th>Tools</th>
+      </tr>
+      <tr>
+        <td><img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,r" /></td>
+        <td><img src="https://skillicons.dev/icons?i=react,bootstrap,nextjs,tailwind" /></td>
+        <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></td>
+        <td><img src="https://skillicons.dev/icons?i=vscode,github,figma,git,nodejs" /></td>
+      </tr>
+    </table>
 </div>
 
 <br/>
@@ -55,7 +54,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tegarpanggalih/Tegarpanggalih/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
@@ -63,19 +61,13 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align="center">
     <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=Tegarpanggalih&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Tegarpanggalih&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tegarpanggalih&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Tegarpanggalih&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br/>
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tegarpanggalih&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-
-<br/>

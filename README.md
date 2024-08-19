@@ -67,3 +67,8 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegarpanggalih&" alt="tegarpanggalih" />
 </p>
+
+<h3 align="center">Play a Snake Game</h3>
+<p align="center">
+    <img src="https://github.com/tegarpanggalih/tegarpanggalih/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
